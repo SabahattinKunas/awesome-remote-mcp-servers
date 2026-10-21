@@ -3688,6 +3688,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [busik.ch](https://busik.ch) `https://busik.ch/api/mcp`
+  [![busik.ch MCP connector](https://glama.ai/mcp/connectors/ch.busik/fahrten/badges/score.svg)](https://glama.ai/mcp/connectors/ch.busik/fahrten)
+  🔓 - Minibus trips between Ukraine, Germany and Switzerland: search departures, prices, seats and booking links.
 - [China Footnotes](https://chinafootnotes.com) `https://chinafootnotes.com/mcp`
   [![China Footnotes MCP connector](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes)
   🔓 - Sourced, dated travel facts for first-time visitors to China: hours, tickets, booking and passport notes.
